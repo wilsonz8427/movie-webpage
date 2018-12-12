@@ -12,3 +12,10 @@ p {
     text-align: center;
     padding: 50px;
 }
+
+img {
+    /*height: auto;*/
+    /*width: auto;*/
+    max-height: 200px;
+    max-width: 200px;
+}
