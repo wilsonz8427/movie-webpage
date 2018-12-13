@@ -16,24 +16,40 @@ p {
 img {
     /*height: auto;*/
     /*width: auto;*/
-    max-height: 200px;
-    max-width: 200px;
+    max-height: 300px;
+    max-width: 300px;
 }
 
 .anime {
     position: relative;
     margin-left: 40px;
+    display: inline;
 }
 
 #explosion {
     position: relative;
     /*margin-right: 40px;*/
     /*margin-left: 40px;*/
-    height: 200px;
+    height: 300px;
     max-height: 300px;
 }
 
 #ragna {
     position: absolute;
     left:20px;
+}
+
+.reality {
+    display: inline;
+}
+
+#earth {
+    position: relative;
+    left: 80px;
+}
+
+#falcon {
+    position: absolute;
+    right: 60px;
+    height: 300px;
 }
