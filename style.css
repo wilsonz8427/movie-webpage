@@ -1,4 +1,4 @@
-* {
+body {
     background-color: lightblue;
 }
 
@@ -18,4 +18,22 @@ img {
     /*width: auto;*/
     max-height: 200px;
     max-width: 200px;
+}
+
+.anime {
+    position: relative;
+    margin-left: 40px;
+}
+
+#explosion {
+    position: relative;
+    /*margin-right: 40px;*/
+    /*margin-left: 40px;*/
+    height: 200px;
+    max-height: 300px;
+}
+
+#ragna {
+    position: absolute;
+    left:20px;
 }
