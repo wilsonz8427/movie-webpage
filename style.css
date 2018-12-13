@@ -23,6 +23,7 @@ img {
 .anime {
     position: relative;
     margin-left: 40px;
+    display: inline;
 }
 
 #explosion {
@@ -36,4 +37,18 @@ img {
 #ragna {
     position: absolute;
     left:20px;
+}
+
+.reality {
+    display: inline;
+}
+
+#earth {
+    position: relative;
+    left: 280px;
+}
+
+#falcon {
+    position: absolute;
+    right: 65px;
 }
