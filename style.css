@@ -1,3 +1,7 @@
+* {
+    text-align: center;
+}
+
 body {
     background-color: lightblue;
 }
@@ -24,7 +28,8 @@ img {
 
 .anime {
     position: relative;
-    margin-left: 40px;
+    /*margin-left: 80px;*/
+    margin-right: 80px;
     display: inline;
 }
 
@@ -40,7 +45,9 @@ img {
 }
 
 .reality {
+    position: relative;
     display: inline;
+    /*margin-left: 80px;*/
 }
 
 #earth {
@@ -50,11 +57,13 @@ img {
 
 #falcon {
     position: absolute;
-    right: 60px;
+    left: 75px;
     height: 300px;
 }
 
-
+.comment{
+    text-align: center
+}
 
 textarea {
     margin-left: 150px;
