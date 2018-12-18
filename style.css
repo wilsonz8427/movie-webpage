@@ -66,9 +66,7 @@ img {
 }
 
 textarea {
-    margin-left: 150px;
-}
-
-input {
-    
+    width: 500px;
+    height: 50px;
+    /*margin-left: 150px;*/
 }
