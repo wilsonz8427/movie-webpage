@@ -23,6 +23,7 @@ p {
     max-width: 1000px;
     margin: 0 auto;
     padding-top: 40px;
+    padding-bottom: 80px;
 }
 
 img {
@@ -65,8 +66,7 @@ img {
     height: 300px;
 }
 
-.comment{
-    padding-top: 40px;
+span.comment{
     text-align: center
 }
 
@@ -76,3 +76,9 @@ textarea {
     /*margin-left: 150px;*/
 }
 
+#profile_icon {
+    max-width: 80px;
+    max-height: 80px;
+    float: left;
+    
+}
