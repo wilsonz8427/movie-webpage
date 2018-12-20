@@ -26,6 +26,10 @@ p {
     padding-bottom: 80px;
 }
 
+h2 {
+    font-family: "bangers";
+}
+
 img {
     max-height: 300px;
     max-width: 300px;
