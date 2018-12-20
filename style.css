@@ -66,8 +66,13 @@ img {
     height: 300px;
 }
 
-span.comment{
-    text-align: center
+div.comment {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+span.comment {
+    text-align: center;
 }
 
 textarea {
@@ -77,8 +82,7 @@ textarea {
 }
 
 #profile_icon {
-    max-width: 80px;
-    max-height: 80px;
+    max-height: 55px;
     float: left;
     
 }
