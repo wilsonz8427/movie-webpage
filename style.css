@@ -37,7 +37,6 @@ img {
 
 .anime {
     position: relative;
-    /*margin-left: 80px;*/
     margin-right: 80px;
     display: inline;
 }
@@ -56,7 +55,6 @@ img {
 .reality {
     position: relative;
     display: inline;
-    /*margin-left: 80px;*/
 }
 
 #earth {
@@ -90,9 +88,3 @@ textarea {
     float: left;
     
 }
-
-/*.vs {*/
-/*    font-family: "orbitron";*/
-/*    float: none;*/
-/*}*/
-
