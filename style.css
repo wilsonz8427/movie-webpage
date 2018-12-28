@@ -23,7 +23,7 @@ p {
     max-width: 1000px;
     margin: 0 auto;
     padding-top: 40px;
-    padding-bottom: 80px;
+    padding-bottom: 70px;
 }
 
 h2 {
@@ -80,11 +80,13 @@ span.comment {
 textarea {
     width: 500px;
     height: 50px;
-    /*margin-left: 150px;*/
 }
 
 #profile_icon {
     max-height: 55px;
     float: left;
-    
+}
+
+hr {
+    margin-top: 50px;
 }
